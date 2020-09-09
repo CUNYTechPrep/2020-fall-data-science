@@ -9,7 +9,6 @@
 
 # Setup for Windows Users
 ---
-#### GET INFO FROM EDGARDO's STUDENT RESOURCE
 
 1. Download and install [Anaconda](https://www.anaconda.com/products/individual), download link is at bottom of page.
 

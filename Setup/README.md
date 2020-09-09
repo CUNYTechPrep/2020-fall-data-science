@@ -11,5 +11,11 @@
 ---
 #### GET INFO FROM EDGARDO's STUDENT RESOURCE
 
+1. Download and install [Anaconda](https://www.anaconda.com/products/individual), download link is at bottom of page.
+
+2. OPTIONAL: Download and install terminal manager [cmder](https://cmder.net//).
+
+3. Download and install [Sublime Text 3](https://www.sublimetext.com/3).
+
 
 

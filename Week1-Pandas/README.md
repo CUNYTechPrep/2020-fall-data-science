@@ -32,4 +32,10 @@
     * [1](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3), [2](https://datacamp-community-prod.s3.amazonaws.com/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8), [3](https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef)
 
 4. Begin homework exercise in breakout rooms.
-	* Please submit the link to your forked repo homework file [in this google sheet](https://docs.google.com/spreadsheets/d/19mFx4h5Fa1XIIO0Hoodo8AQAnuPxUhFIptNJRAxn_hs/edit?usp=sharing).
+	* Fork this Week1-Pandas repo.
+	* Clone / download your fork to your local machine.
+	* Do your work in the `Exercise.ipynb`.
+	* Once finished, push your changes to your fork.
+	* Please submit the link to your forked repo homework file 
+		* [Wed Class in this google sheet](https://docs.google.com/spreadsheets/d/19mFx4h5Fa1XIIO0Hoodo8AQAnuPxUhFIptNJRAxn_hs/edit?usp=sharing).
+		* [Friday's Class in this google sheet](https://docs.google.com/spreadsheets/d/1K6N3USZtQcBtFgnNo0kRRn1CaGi2HHENZYZxw4xNTkI/edit?usp=sharing)

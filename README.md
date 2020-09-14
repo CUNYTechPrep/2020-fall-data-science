@@ -23,16 +23,18 @@
 
 
 # Course Overview
-* (9/8 - 9/11) Week 1: Introduction to Data Science & working with Data in Pandas
-* (9/15 - 9/18) Week 2: Exploratory Data Analysis and Visualizations
-* (9/22 - 9/25) Week 3: SQL
-* (9/29 - 10/2) Week 4: Introduction to Machine Learning & Classification
-* (10/6 - 10/9) Week 5: Linear Regression / Regressors
-* (10/13 - 10/16) Week 6: Unsupervised Methods for Machine Learning
-* (10/20 - 10/23) Week 7: Natural Language Processing
-* (10/27 - 10/30) Week 8: Neural Networks
-* (11/03 - 11/06) Week 9: Building a Flask App
-* (11/10 - 12/04)Week 10-12: Project Work
+* Week 1: (9/8 - 9/11)  Introduction to Data Science & working with Data in Pandas
+* Week 2: (9/15 - 9/18)  Exploratory Data Analysis and Visualizations
+* Week 3: (9/22 - 9/25)  SQL
+* Week 4: (9/29 - 10/2)  Introduction to Machine Learning & Classification
+* Week 5: (10/6 - 10/9)  Linear Regression / Regressors
+* Week 6: (10/13 - 10/16)  Unsupervised Methods for Machine Learning
+* Week 7: (10/20 - 10/23)  Natural Language Processing
+* Week 8: (10/27 - 10/30)  Neural Networks
+* Week 9: (11/03 - 11/06)  Building a Flask App
+* Week 10-12: (11/10 - 12/04)  Project Work
+
+
 _Note, coursework and lessons may be subject to change based on classes needs._
 
 

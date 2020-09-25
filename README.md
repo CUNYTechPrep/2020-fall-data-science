@@ -4,8 +4,11 @@
 ### Office Hours
 * Instructor Zack's Office Hours
 	* Thrusday's from 6-8pm EST
-* Steve's Office Hours
+* TA Steve's Office Hours
 	* Mondays and Thursdays from 5-6pm.
+* TA Sam's Office Hours
+	* Wednesdays 6:30-8pm
+	* Thrusdays 4:30-6pm
 
 ### [Lecture recordings](https://bit.ly/32vdYBn)
 

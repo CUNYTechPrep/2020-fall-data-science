@@ -4,7 +4,7 @@
 1. Review last weeks HW
 2. Project pitches
 	* By Tuesday 10/20, you need to have an idea, a team, and fill out the following forms as a team. 
-	* [Project Design Doc](https://docs.google.com/document/d/1avQ6WheD7tdgx54c0rrEHVoz9I6kpgMTA7HeYMWMKGc/edit?usp=sharing) (Do this first) 
+	* [Project Design Doc](https://docs.google.com/document/d/1avQ6WheD7tdgx54c0rrEHVoz9I6kpgMTA7HeYMWMKGc/edit?usp=sharing) MAKE A COPY OF THIS DOC, then fill it out. (Do this first) 
 	* [Porject Google Form](https://docs.google.com/forms/d/1tTUWioYksUuukgbX5xSBYFwGLUol9GCaOk_72ZxXtiE/prefill) (Do this second) 
 
 3. [Slides Lecture](https://docs.google.com/presentation/d/1zIm-B1dtiDqmzLkwobKfVGag-ShnyxoAn4_NmcTlndI/edit?usp=sharing)

@@ -14,7 +14,7 @@
 
 
 #### Project Ideation Slide Links
-	* [Wednesday's Class](https://docs.google.com/presentation/d/1cMfTzuYYOijC_C0NTImBJcOSlzmdSZ7jBLqHMADfa1c/edit#slide=id.ga02c2d21d0_0_66)
-	* [Friday's Class](https://docs.google.com/presentation/d/1wkq4wXhmq3haG_HXJFIOkV-fUWNcg_q5IYt3AC9qeqo/edit#slide=id.ga02c2d21d3_0_30)
+[Wednesday's Class](https://docs.google.com/presentation/d/1cMfTzuYYOijC_C0NTImBJcOSlzmdSZ7jBLqHMADfa1c/edit#slide=id.ga02c2d21d0_0_66)
+[Friday's Class](https://docs.google.com/presentation/d/1wkq4wXhmq3haG_HXJFIOkV-fUWNcg_q5IYt3AC9qeqo/edit#slide=id.ga02c2d21d3_0_30)
 
 

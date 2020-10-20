@@ -35,8 +35,8 @@
 * Week 4: (9/29 - 10/2)  Introduction to Machine Learning & Classification
 * Week 5: (10/6 - 10/9)  Decision Trees and Random Forest Classifiers
 * Week 6: (10/13 - 10/16)  Linear Regression / Regressors  
-* Week 7: (10/20 - 10/23)  Unsupervised Methods for Machine Learning
-* Week 8: (10/27 - 10/30)  Natural Language Processing
+* Week 7: (10/20 - 10/23)  Natural Language Processing
+* Week 8: (10/27 - 10/30)  Unsupervised Methods for Machine Learning
 * Week 9: (11/03 - 11/06)  Neural Networks
 * Week 10-12: (11/10 - 12/04)  Project Work
 

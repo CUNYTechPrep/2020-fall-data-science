@@ -40,9 +40,9 @@
 * Week 09: (11/03 - 11/05) - Neural Networks
 * Week 10: (11/11 - 11/13) - Projects Week 1 (Flask App)
 * Week 11: (11/18 - 11/20) - Projects Week 2  
-* Week 12: (11/25 - 11/27) - _THXGIVING BREAK, NO CLASS_
+* Week 12: (11/25 - 11/27) - _THANKSGIVING BREAK, NO CLASS_
 * Week 13: (12/02 - 12/04) - Projects Week 3 (MVP In Class Presentations)
-* Week 14: __FINAL PROJECT DUE / DEMO NIGHT: 12/10 5:30 - 7:30__
+* Week 14: __(12/10) - FINAL PROJECT DUE / DEMO NIGHT: 12/10 5:30 - 7:30__
 
 
 _Note, coursework and lessons may be subject to change based on classes needs._

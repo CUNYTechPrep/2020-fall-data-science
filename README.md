@@ -29,16 +29,20 @@
 
 
 # Course Overview
-* Week 1: (9/8 - 9/11)  Introduction to Data Science & working with Data in Pandas
-* Week 2: (9/15 - 9/18)  Exploratory Data Analysis and Visualizations
-* Week 3: (9/22 - 9/25)  SQL
-* Week 4: (9/29 - 10/2)  Introduction to Machine Learning & Classification
-* Week 5: (10/6 - 10/9)  Decision Trees and Random Forest Classifiers
-* Week 6: (10/13 - 10/16)  Linear Regression / Regressors  
-* Week 7: (10/20 - 10/23)  Natural Language Processing
-* Week 8: (10/27 - 10/30)  Unsupervised Methods for Machine Learning
-* Week 9: (11/03 - 11/06)  Neural Networks
-* Week 10-12: (11/10 - 12/04)  Project Work
+* Week 01: (9/8 - 9/11)  Introduction to Data Science & working with Data in Pandas
+* Week 02: (9/15 - 9/18)  Exploratory Data Analysis and Visualizations
+* Week 03: (9/22 - 9/25)  SQL
+* Week 04: (9/29 - 10/2)  Introduction to Machine Learning & Classification
+* Week 05: (10/6 - 10/9)  Decision Trees and Random Forest Classifiers
+* Week 06: (10/13 - 10/16)  Linear Regression / Regressors  
+* Week 07: (10/20 - 10/23)  Natural Language Processing
+* Week 08: (10/27 - 10/29) - Image Classifiers
+* Week 09: (11/03 - 11/05) - Neural Networks
+* Week 10: (11/11 - 11/13) - Projects Week 1 (Flask App)
+* Week 11: (11/18 - 11/20) - Projects Week 2  
+* Week 12: (11/25 - 11/27) - _THXGIVING BREAK, NO CLASS_
+* Week 13: (12/02 - 12/04) - Projects Week 3 (MVP In Class Presentations)
+* Week 14: __FINAL PROJECT DUE / DEMO NIGHT: 12/10 5:30 - 7:30__
 
 
 _Note, coursework and lessons may be subject to change based on classes needs._

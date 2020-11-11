@@ -1,10 +1,20 @@
 # Building an Flask App
 
-### [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/components/alerts/)
-	* [Bootstrap Themes](https://getbootstrap.com/docs/4.0/examples/)
+## Agenda
+1. Review last weeks HW
+2. Flask live coding lecutre
+3. Break
+	* Wed class only, redo [Midpoint Self Assessment](https://forms.gle/WGKmmEFzyavfHFJ4A)
+4. Breakout Rooms
 
-## Extra Credit:  Deploying your app to Heroku.
+#### [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+#### [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/components/alerts/)
+[Bootstrap Themes](https://getbootstrap.com/docs/4.0/examples/)
+
+# Extra Credit:  Deploying your app to Heroku.
 Once you have a flask app running locally on your machine already, you can then try to make a live website that anyone can visit by depolying it to Heroku.  
+
+These instructions were adapted from [this tutorial blog](https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7). 
 
 1. Sign up for a free Heroku account at https://signup.heroku.com/signup/dc
 2. You should all already have git installed, so you can skip this step. Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed.
@@ -28,5 +38,11 @@ ___
 4. Then, add your git to heroku by using `heroku git:remote -a your-webapp-name`.  Again, replace 'your-webapp-name' with the name you used above to create your app. 
 5. Finally, push your files to heroku by using `git push heroku HEAD:master`
 After you push your files to heroku, it should spit out a link to your webapp, it will look something like, `https://web-app-name.herokuapp.com/`
+
+___
+### Making changes to your app. 
+Say you've updated your webapp files now want to update your hosted webapp. 
+1. Add, commit, and push all the changes to your github repo.
+2. Run the `git push heroku HEAD:master` command. 
 
 
